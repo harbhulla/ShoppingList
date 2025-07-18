@@ -1,12 +1,19 @@
-# React + Vite
+# 🛍️ Bazaar – Responsive Shopping Cart App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bazaar is a sleek and responsive shopping cart web app built with **React**, **Tailwind CSS**, and **React Router**. It allows users to browse a curated selection of products, select quantities, and manage a dynamic cart—all within a smooth, mobile-friendly experience.
 
-Currently, two official plugins are available:
+## ✨ Features
+- 🛒 Add items to cart with adjustable quantity
+- 📱 Fully responsive layout (mobile to desktop)
+- ⚡ Smooth page transitions using `react-router-dom`
+- 🎨 Styled with Tailwind CSS for clean, modern UI
+- ☁️ Deployed on Vercel
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧰 Tech Stack
+- React
+- Tailwind CSS
+- React Router DOM
+- Vite
+- Vercel (for deployment)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- <img width="954" height="594" alt="image" src="https://github.com/user-attachments/assets/933ab8a3-c052-49aa-9dc6-a68f1b610b53" />
